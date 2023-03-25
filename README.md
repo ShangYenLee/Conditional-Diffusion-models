@@ -13,3 +13,6 @@ Fig 1: (0-9) generate images
 <img src="https://drive.google.com/uc?id=1l-_7qNeXsnC1io_9v5drg7T3C5-uQhh7" width="12%" hspace="8"/>
 <img src="https://drive.google.com/uc?id=1ds14GWektmlm895Q8queh5q44GqbiCjp" width="12%" hspace="8"/>
 </p>
+<p align="center">
+(a) t=0 &emsp;(a) t=80 &emsp;(a) t=160 &emsp;(a) t=240 &emsp;(a) t=320 &emsp;(a) t=400
+</p>
