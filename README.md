@@ -14,5 +14,5 @@ Fig 1: (0-9) generate images
 <img src="https://drive.google.com/uc?id=1ds14GWektmlm895Q8queh5q44GqbiCjp" width="12%" hspace="8"/>
 </p>
 <p align="center">
-(a) t=0 &emsp;&emsp;&emsp;&emsp;(b) t=80 &emsp;&emsp;&emsp;&emsp;(c) t=160 &emsp;&emsp;&emsp;&emsp;(d) t=240 &emsp;&emsp;&emsp;&emsp;(e) t=320 &emsp;&emsp;&emsp;&emsp;(f) t=400
+(a) t=0 &emsp;&emsp;&emsp;(b) t=80 &emsp;&emsp;&emsp;(c) t=160 &emsp;&emsp;&emsp;(d) t=240 &emsp;&emsp;&emsp;(e) t=320 &emsp;&emsp;&emsp;(f) t=400
 </p>
