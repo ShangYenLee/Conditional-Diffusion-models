@@ -16,3 +16,6 @@ Fig 1: (0-9) generate images
 <p align="center">
 (a) t=0 &emsp;&emsp;&emsp;(b) t=80 &emsp;&emsp;&emsp;(c) t=160 &emsp;&emsp;&emsp;(d) t=240 &emsp;&emsp;&emsp;(e) t=320 &emsp;&emsp;&emsp;(f) t=400
 </p>
+<p align="center">
+Figure 10: First ’0’ in different time steps
+</p>
