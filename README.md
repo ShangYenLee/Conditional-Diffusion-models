@@ -1,4 +1,6 @@
 # Conditional-Diffusion-models
+This repository implement conditional diffusion model from scratch and train it on the MNIST-M dataset. Given conditional labels 0-9, and generate the corresponding digit images.
+
 ## Training
 ```
 ```
