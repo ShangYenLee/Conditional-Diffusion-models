@@ -1,10 +1,15 @@
 # Conditional-Diffusion-models
 <p align="center">
-<img src="https://drive.google.com/uc?id=1VmQEtoZCD16itdfPoiDe0OVDatv_Pv0h" width="50%"/>
+<img src="https://drive.google.com/uc?id=1VmQEtoZCD16itdfPoiDe0OVDatv_Pv0h"/>
 </p>
 <p align="center">
 Fig 1: (0-9) generate images
 </p>
 <p align="center">
-<img src="https://drive.google.com/uc?id=1astGBIDINJPUAdt2lcr50OD-IpMkRAye" width="20%"/>
+<img src="https://drive.google.com/uc?id=1astGBIDINJPUAdt2lcr50OD-IpMkRAye" width="12%" hspace="8"/>
+<img src="https://drive.google.com/uc?id=1mANNoXhTMsK9Ft9KbA0cgMCP8AFl5-1G" width="12%" hspace="8"/>
+<img src="https://drive.google.com/uc?id=1qiffugCcMcCxYuCBwaNwhQWtpqNfnNND" width="12%" hspace="8"/>
+<img src="https://drive.google.com/uc?id=14t0eeljz1jCx0UsuAMtE9yPonq3fk3Yu" width="12%" hspace="8"/>
+<img src="https://drive.google.com/uc?id=1l-_7qNeXsnC1io_9v5drg7T3C5-uQhh7" width="12%" hspace="8"/>
+<img src="https://drive.google.com/uc?id=1ds14GWektmlm895Q8queh5q44GqbiCjp" width="12%" hspace="8"/>
 </p>
