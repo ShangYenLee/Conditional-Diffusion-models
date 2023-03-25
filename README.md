@@ -1,8 +1,15 @@
 # Conditional-Diffusion-models
+## Training
+```
+```
 ## Download checkpoint
 [checkpoint link](https://drive.google.com/drive/u/0/folders/1dZtdGKg-caE4FOcLbdKiBL7gu-ssQeY_)
 ```
 bash download.sh
+```
+## Sampling Images
+```
+python sampling.py --out_dir $output_dir --checkpoint $checkpoint_dir
 ```
 <p align="center">
 <img src="https://drive.google.com/uc?id=1VmQEtoZCD16itdfPoiDe0OVDatv_Pv0h"/>
