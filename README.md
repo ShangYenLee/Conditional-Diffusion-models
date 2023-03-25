@@ -1,4 +1,8 @@
 # Conditional-Diffusion-models
+## Download checkpoint
+```
+bash download.sh
+```
 <p align="center">
 <img src="https://drive.google.com/uc?id=1VmQEtoZCD16itdfPoiDe0OVDatv_Pv0h"/>
 </p>
