@@ -1,5 +1,6 @@
 # Conditional-Diffusion-models
 ## Download checkpoint
+[checkpoint link](https://drive.google.com/drive/u/0/folders/1dZtdGKg-caE4FOcLbdKiBL7gu-ssQeY_)
 ```
 bash download.sh
 ```
