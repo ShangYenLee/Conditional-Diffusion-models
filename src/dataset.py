@@ -7,9 +7,8 @@ from src.transforms import *
 class mnistm_dataset(Dataset):
 	def __init__(self, opt, type, transform=None):
 		super(P2_dataset,self).__init__()
-		self.root = opt.train_root
-		self.file = opt.train_file
-		self.info = pd.read_csv(os.path.join(self.root,self.file,f'{type}.csv'))
+		self.root = opt.data_root
+		self.info = pd.read_csv(os.path.join(self.root,f'{type}.csv'))
 		self.filename = self.info['image_name']
 		self.label = self.info['label']
 		self.transform = transform
@@ -21,7 +20,7 @@ class mnistm_dataset(Dataset):
 		label = int(self.label[i])
 		filename = self.filename[i]
 		data = {
-			'image': os.path.join(self.root,self.file,'data',filename),
+			'image': os.path.join(self.root,'data',filename),
 			'label': label
 		}
 
