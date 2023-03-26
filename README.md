@@ -7,6 +7,9 @@ Generated from MNIST<br>
 \# of classes: 10 (0~9)<br>
 A subset of MNIST - The digit images are normalized (and centered) in size 28 * 28 * 3 pixels
 
+## Model architecture
+<img src="https://drive.google.com/uc?id=18-RD6RDBNFb-Te9lVCrTmc_L1GrIQo-J"/>
+
 ## Training
 ```
 python train.py --data_root $data_directory
@@ -40,3 +43,7 @@ Fig 1: (0-9) generate images
 <p align="center">
 Figure 10: First ’0’ in different time steps
 </p>
+
+## Reference
+[Ho, Jonathan, Ajay Jain, and Pieter Abbeel. "Denoising diffusion probabilistic models."](https://arxiv.org/pdf/2006.11239.pdf)<br>
+[dome272/Diffusion-Models-pytorch](https://github.com/dome272/Diffusion-Models-pytorch)
