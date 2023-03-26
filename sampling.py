@@ -21,7 +21,6 @@ model = torch.load(opt.checkpoint)
 model.to(device)
 diffusion = Diffusion(img_size=opt.size, device=device)
 
-
 labels = torch.zeros(100).long().to(device)
 
 for i in tqdm(range(10)):

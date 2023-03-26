@@ -61,7 +61,7 @@ def train():
 	 	)
     
 
-    for epoch in range(1,opt.ep+1):
+	for epoch in range(1,opt.ep+1):
 		train_bar = tqdm(train_loader)
 		for i, data in enumerate(train_bar):
 			images = data['image'].to(device)

@@ -6,7 +6,7 @@ from src.transforms import *
 
 class mnistm_dataset(Dataset):
 	def __init__(self, opt, type, transform=None):
-		super(P2_dataset,self).__init__()
+		super(mnistm_dataset,self).__init__()
 		self.root = opt.data_root
 		self.info = pd.read_csv(os.path.join(self.root,f'{type}.csv'))
 		self.filename = self.info['image_name']
