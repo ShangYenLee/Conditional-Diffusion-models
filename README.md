@@ -1,6 +1,12 @@
 # Conditional-Diffusion-models
 This repository implement conditional diffusion model from scratch and train it on the [MNIST-M](https://www.kaggle.com/datasets/yuna1117/mnist-m) dataset. Given conditional labels 0-9, and generate the corresponding digit images.
 
+## MNIST-M Dataset
+Generated from MNIST<br>
+\# of data: 44,800 / 11,200 (training/validation)<br>
+\# of classes: 10 (0~9)<br>
+A subset of MNIST - The digit images are normalized (and centered) in size 28 * 28 * 3 pixels
+
 ## Training
 ```
 ```
