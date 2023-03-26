@@ -9,6 +9,7 @@ A subset of MNIST - The digit images are normalized (and centered) in size 28 * 
 
 ## Training
 ```
+python train.py --data_root $data_directory
 ```
 ## Download checkpoint
 [checkpoint link](https://drive.google.com/drive/u/0/folders/1dZtdGKg-caE4FOcLbdKiBL7gu-ssQeY_)
@@ -17,7 +18,7 @@ bash download.sh
 ```
 ## Sampling Images
 ```
-python sampling.py --out_dir $output_dir --checkpoint $checkpoint_dir
+python sampling.py --out_dir $output_directory --checkpoint $checkpoint_directory
 ```
 <p align="center">
 <img src="https://drive.google.com/uc?id=1VmQEtoZCD16itdfPoiDe0OVDatv_Pv0h"/>
